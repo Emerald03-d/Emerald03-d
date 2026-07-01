@@ -9,7 +9,7 @@ Hi, I'm **Emerald Oludunsin** — Data Analyst based in Lagos, Nigeria.
 * Power BI Sales Dashboard
 * Excel Data Cleaning & Analysis
 * SQL Projects (coming soon)
-* Pytho and R projects (coming soon)
+* Python and R projects (coming soon)
 
 🛠 **Tech Stack:** Excel · SQL · Power BI · Python · R · Git/GitHub · Google Sheets
 
